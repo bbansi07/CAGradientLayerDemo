@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  CAGradientLayerDemo
 //
-//  Created by Zeitech Solutions on 04/08/17.
+//  Created by bansi bhatt on 04/08/17.
 //
 //
 
